@@ -39,11 +39,11 @@ The website should allow users to export their CV in multiple formats, such as P
 
 ## Display
 ### User Input
-    1. *Personal Information:* Name, address, phone number, email address, and any other relevant contact information.
-    2. *Work Experience:* Previous job titles, company names, dates of employment, job descriptions, and any achievements or accomplishments.
-    3. *Education:* Degrees earned, schools attended, dates of attendance, and any relevant coursework or projects.
-    4. *Skills:* Specific skills relevant to the job or industry, such as technical skills, language proficiency, and certifications
-    5.*Additional Information:*  Relevant hobbies or interests, volunteer work, or other relevant information that may be beneficial to include on a resume or CV.
+ 1. *Personal Information:* Name, address, phone number, email address, and any other relevant contact information.
+ 2. *Work Experience:* Previous job titles, company names, dates of employment, job descriptions, and any achievements or accomplishments.
+ 3. *Education:* Degrees earned, schools attended, dates of attendance, and any relevant coursework or projects.
+ 4. *Skills:* Specific skills relevant to the job or industry, such as technical skills, language proficiency, and certifications
+ 5.*Additional Information:*  Relevant hobbies or interests, volunteer work, or other relevant information that may be beneficial to include on a resume or CV.
 
 
 
