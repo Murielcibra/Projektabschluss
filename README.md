@@ -14,19 +14,19 @@ This is a web application for generating CVs using:
 
 ## Features 
 The CV generator website includes the following features:
-- User-friendly interface: 
+- User-friendly interface: <br/>
 The website should have a clean and easy-to-use interface that allows users to create their CVs quickly and easily.
-- Multiple templates: 
+- Multiple templates: <br/> 
 The website should offer a variety of CV templates that users can choose from to suit their personal style and the type of job they are applying for.
-- Customization options: 
+- Customization options:  <br/>
 The website should allow users to customize their CVs with their own information, including their work experience, education, skills, and accomplishments.
-- Tips and guidance: 
+- Tips and guidance:  <br/>
 The website should offer tips and guidance on how to create an effective CV, including what to include and what to avoid.
-- Save and edit options: 
+- Save and edit options:  <br/>
 The website should allow users to save their progress and come back later to edit their CVs as needed.
-- Privacy and security:
+- Privacy and security: <br/>
 The website should prioritize user privacy and security, ensuring that personal information is kept confidential and secure.
-- Export options: 
+- Export options:  <br/>
 The website should allow users to export their CV in multiple formats, such as PDF or Word.
 
 
