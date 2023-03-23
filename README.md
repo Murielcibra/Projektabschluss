@@ -6,7 +6,7 @@ This repository is a live web app deployed on Netlify. This web application help
 
 The user can add basic infos like their contacts and an image of themselves as well as work experiences and all their degrees. After compiling the form the will be able to download a pdf version of their CV.
 
-## Technology checkup
+## Technology Used:
 This is a web application for generating CVs using:
 + HTML
 + CSS
@@ -28,6 +28,22 @@ The website should allow users to save their progress and come back later to edi
 The website should prioritize user privacy and security, ensuring that personal information is kept confidential and secure.
 - Export options:  <br/>
 The website should allow users to export their CV in multiple formats, such as PDF or Word.
+
+
+## System requirements:
+- Store information about new entry of Resume
+- Update and delete the record
+- Security system to protect user data
+  - Authentication APIs.
+  - Password Management APIs
+
+## Display
+### User Input
+    1. *Personal Information:* Name, address, phone number, email address, and any other relevant contact information.
+    2. *Work Experience:* Previous job titles, company names, dates of employment, job descriptions, and any achievements or accomplishments.
+    3. *Education:* Degrees earned, schools attended, dates of attendance, and any relevant coursework or projects.
+    4. *Skills:* Specific skills relevant to the job or industry, such as technical skills, language proficiency, and certifications
+    5.*Additional Information:*  Relevant hobbies or interests, volunteer work, or other relevant information that may be beneficial to include on a resume or CV.
 
 
 
