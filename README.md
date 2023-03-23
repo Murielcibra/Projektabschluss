@@ -10,6 +10,7 @@ The user can add basic infos like their contacts and an image of themselves as w
 This is a web application for generating CVs using:
 + HTML
 + CSS
++ JAVASCRIPT
 + VUE.JS
 
 ## Features 
