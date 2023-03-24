@@ -35,8 +35,8 @@ The website should allow users to export their CV in multiple formats, such as P
 #### Account Management
   - Login
   - Register
-  - Forget Password
-  - Account Details
+  - (Forget Password) 
+  - (Account Details) 
   - Account Edit
  
 #### CV
@@ -50,9 +50,9 @@ The website should allow users to export their CV in multiple formats, such as P
 #### API
   - Authentication
   - Store Data in Database
-  - Generate PDF
-  - Generate Image for thumbnail
-  - Storage for PDF and Images
+  - (Generate PDF)
+  - (Generate Image for thumbnail)
+  - Storage for (PDF) and Images
 
 ## System Requirements
 - Install Vue.js as the front-end framework
