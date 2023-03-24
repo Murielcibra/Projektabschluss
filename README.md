@@ -29,7 +29,7 @@ The website should allow users to save their progress and come back later to edi
 - **Privacy and security:** <br/>
 The website should prioritize user privacy and security, ensuring that personal information is kept confidential and secure.
 - **Export options:**  <br/>
-The website should allow users to export their CV in multiple formats, such as PDF or Word.
+The website should allow users to export their CV in multiple formats, such as PDF or Print.
 
 ### Low-Level Features:
 #### Account Management
